@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+.main-content {
+    margin: auto;
+    width: 80%;
+}
+
+.recipe-list-item {
+    margin: 10%;
+    padding: 2%;
+}
+
+#recipe-list {
+    background-color: bisque;
+}
